@@ -2,3 +2,18 @@
  * CSS code specific to home page
  * (margin/padding adjustments)
  * ------------------------------------- */
+.c-main {
+  background-color: #FAFAFA;
+  padding-top: 30px;
+  border-left: 50px solid #F9B6B4;
+  border-right: 50px solid #F9B6B4;
+  height: 100vh;
+}
+
+#borderBottom {
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+  height: 50px;
+  color: #F9B6B4;
+}
